@@ -1,4 +1,4 @@
-local class = require("../LuaOO.LuaOO")
+local class = require("LuaOO.LuaOO")
 
 local animal = class()
 
